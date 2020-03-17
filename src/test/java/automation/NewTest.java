@@ -1,6 +1,5 @@
 package automation;
 
-import com.sun.deploy.association.Action;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
